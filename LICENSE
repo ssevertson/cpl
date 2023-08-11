@@ -8,16 +8,17 @@ of this license document, but changing it is not allowed.
                           Preamble
 
   The Candid Public License (CPL) is a free, copyleft license for
-software and other kinds of works, specifically designed to encouragec
-opyleft within organizations and sustainability of open source software.
+software and other kinds of works, specifically designed to encourage
+copyleft within organizations and sustainability of open source software.
 
   The license is based on the GNU Affero General Public License, but
 removes the ambiguity around network usage: the operator of any software 
 that depends on the licensed work must distribute the source code of that
 software to users.
 
-  The CPL basically extends the infectious nature of the GPL from libraries
-and linking to software dependent upon the licensed work, as well as software used to build and install the licensed work.
+  The CPL basically extends the infectious nature of the GPL from
+libraries and linking to software dependent upon the licensed work, as
+well as software used to build and install the licensed work.
 
   The precise terms and conditions for copying, distribution and
 modification follow.
@@ -520,7 +521,8 @@ to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
 
-  13. Remote Network Interaction; Use with the GNU General Public License; Software Dependencies
+  13. Remote Network Interaction; Use with the GNU General Public License;
+Software Dependencies
 
   Notwithstanding any other provision of this License, if you modify the
 Program, your modified version must prominently offer all users
@@ -625,8 +627,8 @@ the "copyright" line and a pointer to where the full notice is found.
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the Candid Public License as published by Candid
-  Development LLC, either version 1 of the License, or
-  (at your option) any later version.
+  Development LLC, either version 1 of the License, or (at your option) any
+  later version.
 
   This program is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
